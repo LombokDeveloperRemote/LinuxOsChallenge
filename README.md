@@ -10,9 +10,10 @@ Kriteria yg harus ada di OS linux yg d buat:
 - Visual Studio Code
 - git
 - coreutils
-- dart & flutter - flutter nya harus ada di /bin atau /usr/bin
+- dart & flutter: flutter nya harus ada di /bin atau /usr/bin
 - desktopnya XFCE
-- di saat booting sertakan Nama submitter sebagai logo.
+- di saat booting sertakan Nama submitter sebagai logo atau di bawah Logo.
+- Type OS Live (non installable), bisa d buat live USB.
 
 Delivery:
 - iso file atau VMDK (VMware) file yg bisa d run d semua Virtual Machine.
