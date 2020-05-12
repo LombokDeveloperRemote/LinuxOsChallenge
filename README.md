@@ -1,4 +1,4 @@
-# Challenge, khusus mahasiswa NTB, 
+# Challenge, khusus mahasiswa NTB atau Pernah Kuliah di salah satu kampus di NTB (Lombok & Sumbawa) 
 
 Deadline: deadline tgl 20 Mei 2020….
 
