@@ -1,6 +1,6 @@
 # Challenge, khusus mahasiswa NTB, 
 
-Deadline: deadline tgl 20 Mei….
+Deadline: deadline tgl 20 Mei 2020….
 
 Task:
 - Buat Sebuah system Linux (LFS boleh, Remastering juga boleh) untuk Flutter Development.
